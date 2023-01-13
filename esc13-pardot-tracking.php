@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: ESC13 ECP Pardot Tracking
-Plugin URI: 
+Plugin URI: https://github.com/Region13/esc13-pardot-tracking
 Description: Loads the Pardot "Website Traffic" Campaign Tracking code on specific pages of teach.esc13.net (ECP)
 Author: ESC Region 13
 Version: 1.0.0
